@@ -46,27 +46,6 @@ excludeKeyWords = []
 subFolders = True
 
 
-'''
-
-# RTE Files
-localSever = True
-# Root Dir
-if localSever:
-    sourceRoot = r'\\shi6s007\DE13S'
-else:
-    sourceRoot = r'\\cii6s029\DE13S'
-
-
-destRoot = r'E:\testLocalFiles\dest\degs\DE13S'
-
-
-# File Path
-folderPath = r'nxn13\em64tntL'
-
-
-
-'''
-
 
 # Full Path
 sourcePath = os.path.join(sourceRoot,folderPath)
