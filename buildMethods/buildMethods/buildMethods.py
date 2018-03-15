@@ -12,21 +12,6 @@ import time
 import stat
 #import numpy
 
-# RTE all or zip
-# r'\\plm\cinas\cae_nxn_arc\rte'
-# r'\\plm\shnas\nx_cae\cae_nxn\rte'
-# copy \\plm\cinas\cae_nxn\nxn_scripts\builds.xml \\shv6s12\NXN\nxn_scripts
-
-
-# Group after date
-# r'\\cii6s029\DE13S'
-# r'\\shi6s007\DE13S'
-
-
-#sourceRoot = r'\\plm\cinas\cae_nxn\nastran_tools'
-#destRoot = r'\\shv6s12\nxn\nastran_tools'
-#
-#folderPath = r'bin'
 
 
 sourceRoot = r'\\cii6s029\DE12S'
