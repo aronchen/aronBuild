@@ -14,9 +14,17 @@ import stat
 
 
 
-sourceRoot = r'\\cii6s029\DE13G'
-destRoot = r'\\shi6s007\DE13G'
-folderPath = r''
+#sourceRoot = r'\\cii6s029\DE12S'
+#destRoot = r'\\shi6s007\DE12S'
+#folderPath = r''
+
+
+sourceRoot = r'\\plm\cinas\cae_nxn\nastran_tools'
+destRoot = r'\\shv6s12\nxn\nastran_tools'
+
+folderPath = r'bin'
+
+
 
 skipFolderFullPaths = [r'\\cii6s029\DE13S\nxn13\nast\tpl',]
 #skipFolderFullPaths = [r'\\cii6s029\DE12S\nxn12\nast\tpl', r'\\cii6s029\DE12S\nxn12p01\nast\tpl', r'\\cii6s029\DE12S\nxn12p02\nast\tpl']
@@ -30,27 +38,6 @@ excludeKeyWords = []
 
 subFolders = True
 
-
-'''
-
-# RTE Files
-localSever = True
-# Root Dir
-if localSever:
-    sourceRoot = r'\\shi6s007\DE13S'
-else:
-    sourceRoot = r'\\cii6s029\DE13S'
-
-
-destRoot = r'E:\testLocalFiles\dest\degs\DE13S'
-
-
-# File Path
-folderPath = r'nxn13\em64tntL'
-
-
-
-'''
 
 
 # Full Path
