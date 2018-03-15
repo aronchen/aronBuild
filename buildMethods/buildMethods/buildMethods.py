@@ -14,12 +14,12 @@ import stat
 
 
 
-sourceRoot = r'\\cii6s029\DE12S'
-destRoot = r'\\shi6s007\DE12S'
+sourceRoot = r'\\cii6s029\DE13S'
+destRoot = r'\\shi6s007\DE13S'
 folderPath = r''
 
-#skipFolderFullPaths = [r'\\cii6s029\DE13S\nxn13\nast\tpl',]
-skipFolderFullPaths = [r'\\cii6s029\DE12S\nxn12\nast\tpl', r'\\cii6s029\DE12S\nxn12p01\nast\tpl', r'\\cii6s029\DE12S\nxn12p02\nast\tpl']
+skipFolderFullPaths = [r'\\cii6s029\DE13S\nxn13\nast\tpl',]
+#skipFolderFullPaths = [r'\\cii6s029\DE12S\nxn12\nast\tpl', r'\\cii6s029\DE12S\nxn12p01\nast\tpl', r'\\cii6s029\DE12S\nxn12p02\nast\tpl']
 
 findKeyWords = []
 #findKeyWords = ['.bat']
