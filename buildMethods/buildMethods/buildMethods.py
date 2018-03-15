@@ -14,8 +14,8 @@ import stat
 
 
 
-sourceRoot = r'\\cii6s029\DE13S'
-destRoot = r'\\shi6s007\DE13S'
+sourceRoot = r'\\cii6s029\DE13G'
+destRoot = r'\\shi6s007\DE13G'
 folderPath = r''
 
 skipFolderFullPaths = [r'\\cii6s029\DE13S\nxn13\nast\tpl',]
